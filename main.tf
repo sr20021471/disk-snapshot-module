@@ -1,7 +1,7 @@
 provider "azurerm" {
-    #subscription_id = "f614c57b-d44a-48fc-82fb-6b497f2fac55"
+    subscription_id = "f614c57b-d44a-48fc-82fb-6b497f2fac55"
     #version = "~> 2.8"
-    region="East US"
+    #region="East US"
     features {}
 }
 
